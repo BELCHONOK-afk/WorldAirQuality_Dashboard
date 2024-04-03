@@ -12,4 +12,5 @@
 Автор проекта - Толя, создано на основе фреймворка Streamlit.
 
 Ссылка на работающий Streamlit сервис:
+https://worldairquality.streamlit.app/
 
